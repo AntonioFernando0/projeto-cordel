@@ -85,13 +85,13 @@
     padding: 5px;
   }
   section#img01{
-    background-image: url('../projeto-cordel/imagens/background001.jpg');
+    background-image: url('background001.jpg');
     background-position: right center;
     background-size: cover;
     
   }
   section#img02{
-    background-image: url('../projeto-cordel/imagens/background002.jpg');
+    background-image: url('background002.jpg');
     background-size: cover;
   
 
